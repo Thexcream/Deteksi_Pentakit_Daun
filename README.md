@@ -1,2 +1,6 @@
-# Deteksi_Pentakit_Daun
-deteksi penyakit pada daun tanaman dengan yolo
+# YOLOv8 Tomato Disease Detection
+
+## Cara Menjalankan
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
